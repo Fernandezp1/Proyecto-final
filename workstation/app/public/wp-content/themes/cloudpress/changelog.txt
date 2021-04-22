@@ -1,0 +1,46 @@
+== Changelog ==
+
+@Version 2.4
+* Removed the Google plus social icon and url shorteners.
+* Escaped the pingback_url() and updated the screenshot.
+
+@Version 2.3.9
+* Added the top header widget feature.
+
+@Version 2.3.8
+* Fixed user comment issue and minor style issues.
+
+@Version 2.3.7
+* Implemented "Links within content must be underlined" guideline.
+* Fixed Keyboard navigation issue for responsive view and changed the screenshot.
+* Fixed repeater "open link in new tab" checkbox issue.
+
+@Version 2.3.6
+* jQuery compatibility issue resolved with WP 5.5
+
+@Version 2.3.5
+* Added custom color feature.
+
+@Version 2.3.4
+* Added "Requires at least", "Tested up to", "Requires PHP fields" in the style.css.
+
+@Version 2.3.3
+* Resolved issues mentioned by the reviewer.
+
+@Version 2.3.2
+* Changed the logo in the screenshot.
+
+@Version 2.3.1
+* Fix escaping issue.
+
+@Version 2.3
+* Declare the license of all the external resources and fixed some issues.
+
+@Version 2.2.1
+* Remove accessibility-ready tag.
+
+@Version 2.2
+* Updated some strings and pot file.
+
+@ Version 2.1
+* New release

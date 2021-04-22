@@ -1,0 +1,10 @@
+== Changelog ==
+
+= 0.3 =
+* Screenshot updated.
+
+= 0.2 =
+* Fixed strings as per i18n.
+
+= 0.1 =
+* Initial release
